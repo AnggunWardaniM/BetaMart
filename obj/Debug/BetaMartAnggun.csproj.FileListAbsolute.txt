@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\BetaMartAnggun\BetaMartAnggun\bin\Debug\mydb.accdb
+C:\Users\Lenovo\source\repos\BetaMartAnggun\BetaMartAnggun\bin\Debug\BetaMartAnggun.exe.config
+C:\Users\Lenovo\source\repos\BetaMartAnggun\BetaMartAnggun\bin\Debug\BetaMartAnggun.exe
+C:\Users\Lenovo\source\repos\BetaMartAnggun\BetaMartAnggun\bin\Debug\BetaMartAnggun.pdb
+C:\Users\Lenovo\source\repos\BetaMartAnggun\BetaMartAnggun\obj\Debug\BetaMartAnggun.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\BetaMartAnggun\BetaMartAnggun\obj\Debug\BetaMartAnggun.Form1.resources
+C:\Users\Lenovo\source\repos\BetaMartAnggun\BetaMartAnggun\obj\Debug\BetaMartAnggun.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\BetaMartAnggun\BetaMartAnggun\obj\Debug\BetaMartAnggun.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\BetaMartAnggun\BetaMartAnggun\obj\Debug\BetaMartAnggun.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BetaMartAnggun\BetaMartAnggun\obj\Debug\BetaMartAnggun.exe
+C:\Users\Lenovo\source\repos\BetaMartAnggun\BetaMartAnggun\obj\Debug\BetaMartAnggun.pdb
